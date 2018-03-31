@@ -1,0 +1,18 @@
+Risk Mitigation Strategies
+- เกิดจาก การรวมกันของความน่าจะเป็นของการเกิดและความรุนแรงของผลที่ตามมาสำหรับความเสี่ยงที่ระบุไว้
+
+โดยระบุความเสี่ยงของโปรแกรมไว้ดังต่อไปนี้ (เพิ่มขึ้นตามความรุนแรงของความเสี่ยง)
+- Intensified technical and management reviews of the engineering process
+- Special oversight of designated component engineering
+- Special analysis and testing of critical design items
+- Rapid prototyping and test feedback
+- Consideration of relieving critical design requirements
+- Initiation of fallback parallel developments
+
+ตัวเลือกของการรับมือกับความเสี่ยงแบ่งออกเป็น 5 อย่าง
+- Assume/Accept
+- Avoid
+- Control
+- Transfer
+- Watch/Monitor
+	โดยการเลือกใช้งานแต่ละตัวเลือกนั้นก็ต้องมีการวางแผนและเพิ่มประสิทธิผลของตัวเลือกแต่ละตัวด้วยการอิงข้อมูลจากความเสี่ยงของโปรแกรม
